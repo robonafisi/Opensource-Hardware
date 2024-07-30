@@ -1,2 +1,2 @@
 # Opensource-Hardware
-A comprehensive collection of open source hardware projects, showcasing innovative designs, DIY electronics, and creative engineering solutions.
+A comprehensive collection of open source hardware projects, showcasing innovative designs, DIY electronics, and creative engineering solutions. This repository is a go-to resource for hobbyists, makers, and engineers looking to explore and contribute to the world of open source hardware. From simple gadgets to complex systems, find inspiration and tools to bring your ideas to life. Contributions welcome!
